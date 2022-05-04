@@ -12,7 +12,7 @@
 # PyQt6-WebEngine==6.2.0
 # PySide6==6.2.4
 
-import web_tiles
+import webtiles
 
 if __name__ == "__main__":
-    web_tiles.run_app()
+    webtiles.run_app()
